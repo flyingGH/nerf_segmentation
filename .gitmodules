@@ -1,0 +1,4 @@
+[submodule "segment_3d_gaussians"]
+	path = segment_3d_gaussians
+	url = https://github.com/Jumpat/SegAnyGAussians.git
+	branch = v2
