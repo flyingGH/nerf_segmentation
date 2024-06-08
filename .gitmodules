@@ -2,3 +2,6 @@
 	path = segment_3d_gaussians
 	url = https://github.com/Jumpat/SegAnyGAussians.git
 	branch = v2
+[submodule "colmap"]
+	path = colmap
+	url = https://github.com/colmap/colmap
