@@ -1,5 +1,6 @@
 data/
 results/
+models/
 segment_3d_gaussians/data/
 segment_3d_gaussians/third_party/segment-anything/sam_ckpt
 .env
