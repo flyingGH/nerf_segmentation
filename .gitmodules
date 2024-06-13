@@ -8,3 +8,6 @@
 [submodule "opennerf"]
 	path = opennerf
 	url = https://github.com/opennerf/opennerf.git
+[submodule "ov-seg"]
+	path = ov-seg
+	url = https://github.com/facebookresearch/ov-seg.git
